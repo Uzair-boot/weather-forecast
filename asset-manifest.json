@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Uzair-boot/weather-forecast.git/static/css/main.782a402a.css",
-    "main.js": "/Uzair-boot/weather-forecast.git/static/js/main.0a2f73f2.js",
-    "static/js/787.2a38e5c6.chunk.js": "/Uzair-boot/weather-forecast.git/static/js/787.2a38e5c6.chunk.js",
-    "index.html": "/Uzair-boot/weather-forecast.git/index.html",
-    "main.782a402a.css.map": "/Uzair-boot/weather-forecast.git/static/css/main.782a402a.css.map",
-    "main.0a2f73f2.js.map": "/Uzair-boot/weather-forecast.git/static/js/main.0a2f73f2.js.map",
-    "787.2a38e5c6.chunk.js.map": "/Uzair-boot/weather-forecast.git/static/js/787.2a38e5c6.chunk.js.map"
+    "main.css": "/weather-forecast/static/css/main.782a402a.css",
+    "main.js": "/weather-forecast/static/js/main.797234f9.js",
+    "static/js/787.2a38e5c6.chunk.js": "/weather-forecast/static/js/787.2a38e5c6.chunk.js",
+    "index.html": "/weather-forecast/index.html",
+    "main.782a402a.css.map": "/weather-forecast/static/css/main.782a402a.css.map",
+    "main.797234f9.js.map": "/weather-forecast/static/js/main.797234f9.js.map",
+    "787.2a38e5c6.chunk.js.map": "/weather-forecast/static/js/787.2a38e5c6.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.782a402a.css",
-    "static/js/main.0a2f73f2.js"
+    "static/js/main.797234f9.js"
   ]
 }
